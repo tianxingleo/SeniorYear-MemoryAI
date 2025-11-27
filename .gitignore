@@ -1,0 +1,26 @@
+# 忽略视频和缓存
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.LRF
+*.lrf
+*.srt
+*.SRT
+*.mkv
+*.MKV
+*.apk
+*.APK
+
+# 忽略巨大的图片原片
+*.DNG
+*.dng
+
+# 如果你也不想管理 JPG（因为太多了），也可以忽略
+*.JPG
+*.jpg
+
+# 忽略 Visual Studio 临时文件
+.vs/
+*.user
+*.suo
